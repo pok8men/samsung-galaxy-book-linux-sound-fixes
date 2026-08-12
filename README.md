@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="CpC7zgZKwE3bA-q4Uc4A8vrqWNK-GcyUY0Eu53-HbkI" />
 # Samsung Galaxy Book Lunar Lake (940XHA) Linux Speaker Audio Fix
  
 (This guide provides a fix for the internal speaker no-sound issue on the Samsung Galaxy Book Lunar Lake series (model 940XHA) running Linux.)
